@@ -1,4 +1,10 @@
-## Hi there 👋
+## José Amaro Rafael👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://media.licdn.com/dms/image/v2/D4D03AQGX5wlKwRt_uQ/profile-displayphoto-shrink_800_800/B4DZZA8jeNG4Ac-/0/1744846339030?e=1750291200&v=beta&t=YUIUFnGSp4lJeIwBF9660yF8FoqNyTQsyTC6wa3AJuY)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://media.licdn.com/dms/image/v2/D4D03AQGX5wlKwRt_uQ/profile-displayphoto-shrink_800_800/B4DZZA8jeNG4Ac-/0/1744846339030?e=1750291200&v=beta&t=YUIUFnGSp4lJeIwBF9660yF8FoqNyTQsyTC6wa3AJuY)">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 
 <!--
 **YamRfl/YamRfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
